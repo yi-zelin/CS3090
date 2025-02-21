@@ -37,6 +37,7 @@ def main():
                 print(f"Decrypted Password: {decrypted_password}")
             except Exception as e:
                 print("Failed QwQ")
+                print(e)
 
         elif choice == "3":
             print("Goodbye!")
