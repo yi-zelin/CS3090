@@ -1,4 +1,16 @@
-MIT License
+# License Justification
+* **Clear and Flexible Permissions**: The MIT License explicitly allows users to "use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software." This broad range of permissions encourages innovation and collaboration by allowing others to build upon the software without restrictive limitations.
+* **Warranty Disclaimer**: The license includes a comprehensive disclaimer. This protects the author from legal claims related to software malfunctions, security breaches, or other liabilities. Given the ethical considerations outlined for this tool, including potential misuse and security limitations, this protection is crucial.
+* **Community Contributions**: By allowing modification and redistribution, the MIT License promoting continuous improvement and greater software reliability.
+* **Trust**: The MIT License is one of the most widely used open-source licenses, trusted by major projects and companies.
+
+
+The MIT License is the optimal choice for this project due to its flexibility, legal protection, community encouragement, compatibility, and widespread trust.
+
+GitHub Link: [https://github.com/yi-zelin/CS3090?tab=readme-ov-file](https://github.com/yi-zelin/CS3090?tab=readme-ov-file)
+
+
+# MIT License
 
 Copyright (c) 2025 Zelin
 
